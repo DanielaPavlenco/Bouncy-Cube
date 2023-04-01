@@ -13,8 +13,8 @@ To run this project, you will need:
 * 4)Click on the Run button to build the project and launch the app on your device.
 ### Screenshots
 Here are some screenshots of the app running in an emulator:
-
-
+![image](https://user-images.githubusercontent.com/101560755/229285228-285faff4-8949-4a04-8f65-37a817245c48.png)
+![image](https://user-images.githubusercontent.com/101560755/229285254-54642a9b-ad20-4906-a585-a407ced84fbe.png)
 
 ### Code Overview
 The project consists of three source files:
