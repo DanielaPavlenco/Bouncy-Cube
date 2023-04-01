@@ -1,8 +1,7 @@
-# Bouncy-Cube
-Bouncy Cube
+# **Bouncy-Cube**
 This is an Android project that displays a rotating cube using OpenGL ES 1.0.
 
-Prerequisites
+### Prerequisites
 To run this project, you will need:
 
 Android Studio
@@ -15,11 +14,7 @@ Click on the Run button to build the project and launch the app on your device.
 Screenshots
 Here are some screenshots of the app running in an emulator:
 
-Bouncy Cube Screenshot 1
 
-Bouncy Cube Screenshot 2
-
-Bouncy Cube Screenshot 3
 
 Code Overview
 The project consists of three source files:
